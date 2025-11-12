@@ -1,8 +1,4 @@
-# FlashChat
 
-![FlashChat Interface](https://github.com/user-attachments/assets/fd914aa9-c7fd-44ce-a876-d723ab745085)
-
-FlashChat is a modern real-time communication platform built with React, Firebase, and WebRTC. It provides instant messaging and audio/video calling capabilities with a focus on user experience and performance.
 
 ## Features
 
@@ -12,9 +8,6 @@ FlashChat is a modern real-time communication platform built with React, Firebas
 - 👥 **Friend Management**: Add friends, send requests, and manage connections
 - 🟢 **Online Status**: See when your friends are online
 - 🌙 **Dark/Light Theme**: Toggle between dark and light modes
-- 📱 **Responsive Design**: Works on mobile, tablet, and desktop
-- 🔍 **User Search**: Find and connect with other users
-- 🔔 **Push Notifications**: Receive browser notifications for messages and calls even when the app is closed
 
 ## Tech Stack
 
